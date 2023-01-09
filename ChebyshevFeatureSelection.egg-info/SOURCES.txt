@@ -1,0 +1,6 @@
+aisa_feature.c
+setup.py
+ChebyshevFeatureSelection.egg-info/PKG-INFO
+ChebyshevFeatureSelection.egg-info/SOURCES.txt
+ChebyshevFeatureSelection.egg-info/dependency_links.txt
+ChebyshevFeatureSelection.egg-info/top_level.txt
