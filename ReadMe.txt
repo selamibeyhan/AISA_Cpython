@@ -17,6 +17,8 @@ Bogar, Esref, and Selami Beyhan. "Adolescent Identity Search Algorithm
 (AISA): A novel metaheuristic approach for solving optimization problems." Applied Soft 
 Computing 95 (2020): 106503.
 
+https://www.sciencedirect.com/science/article/abs/pii/S1568494620304427
+
 Remember that there is no guarantee to find the global minimum.
 
 Good Luck!
