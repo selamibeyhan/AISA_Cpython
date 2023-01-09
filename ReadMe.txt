@@ -1,4 +1,4 @@
-How to use optimization method with python implementation:
+Use AISA optimization method with python and C-Extension:
 
 --- Open your folder in terminal then run "the following installation code" to set up C extension
 (C-extension is written to make faster the implementation for large number of parameters.) 
